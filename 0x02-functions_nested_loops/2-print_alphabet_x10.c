@@ -3,7 +3,7 @@
 /**
  * print_alphabet_x10 - print alphabet
  *
- * Return: Nohing, return 0
+ * Return: Nothing, return 0
  *
  */
 void print_alphabet_x10(void)
@@ -12,7 +12,7 @@ void print_alphabet_x10(void)
 	int count;
 
 	count = 0;
-	While(count < 10)
+	while (count < 10)
 	{
 	for (alphabet = 'a' ; alphabet <= 'z'; alphabet++)
 	{
